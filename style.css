@@ -16,4 +16,9 @@
         left: 0px;
         top: 0px;
     }
+    .pudding{
+        width: 500px;
+        height: 400px;
+        rotate: 30deg;
+    }
 }
