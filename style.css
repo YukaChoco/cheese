@@ -1,0 +1,19 @@
+.indexPage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    .spoon{
+        transition: all 1s;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        rotate: 130deg;
+        position: relative;
+        left: 0px;
+        top: 0px;
+    }
+}
